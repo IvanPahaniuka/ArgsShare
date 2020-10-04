@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ArgsShareConsole/1.0.0": {
+        "dependencies": {
+          "ArgsShare": "1.0.0"
+        },
+        "runtime": {
+          "ArgsShareConsole.dll": {}
+        }
+      },
+      "ArgsShare/1.0.0": {
+        "runtime": {
+          "ArgsShare.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArgsShareConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArgsShare/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

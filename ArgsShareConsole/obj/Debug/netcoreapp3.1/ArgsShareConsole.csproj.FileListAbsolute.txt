@@ -1,0 +1,16 @@
+F:\Programs\VSProjects\ArgsShare\ArgsShareConsole\bin\Debug\netcoreapp3.1\ArgsShareConsole.exe
+F:\Programs\VSProjects\ArgsShare\ArgsShareConsole\bin\Debug\netcoreapp3.1\ArgsShareConsole.deps.json
+F:\Programs\VSProjects\ArgsShare\ArgsShareConsole\bin\Debug\netcoreapp3.1\ArgsShareConsole.runtimeconfig.json
+F:\Programs\VSProjects\ArgsShare\ArgsShareConsole\bin\Debug\netcoreapp3.1\ArgsShareConsole.runtimeconfig.dev.json
+F:\Programs\VSProjects\ArgsShare\ArgsShareConsole\bin\Debug\netcoreapp3.1\ArgsShareConsole.dll
+F:\Programs\VSProjects\ArgsShare\ArgsShareConsole\bin\Debug\netcoreapp3.1\ArgsShareConsole.pdb
+F:\Programs\VSProjects\ArgsShare\ArgsShareConsole\bin\Debug\netcoreapp3.1\ArgsShare.dll
+F:\Programs\VSProjects\ArgsShare\ArgsShareConsole\bin\Debug\netcoreapp3.1\ArgsShare.pdb
+F:\Programs\VSProjects\ArgsShare\ArgsShareConsole\obj\Debug\netcoreapp3.1\ArgsShareConsole.csprojAssemblyReference.cache
+F:\Programs\VSProjects\ArgsShare\ArgsShareConsole\obj\Debug\netcoreapp3.1\ArgsShareConsole.AssemblyInfoInputs.cache
+F:\Programs\VSProjects\ArgsShare\ArgsShareConsole\obj\Debug\netcoreapp3.1\ArgsShareConsole.AssemblyInfo.cs
+F:\Programs\VSProjects\ArgsShare\ArgsShareConsole\obj\Debug\netcoreapp3.1\ArgsShareConsole.csproj.CoreCompileInputs.cache
+F:\Programs\VSProjects\ArgsShare\ArgsShareConsole\obj\Debug\netcoreapp3.1\ArgsShareConsole.csproj.CopyComplete
+F:\Programs\VSProjects\ArgsShare\ArgsShareConsole\obj\Debug\netcoreapp3.1\ArgsShareConsole.dll
+F:\Programs\VSProjects\ArgsShare\ArgsShareConsole\obj\Debug\netcoreapp3.1\ArgsShareConsole.pdb
+F:\Programs\VSProjects\ArgsShare\ArgsShareConsole\obj\Debug\netcoreapp3.1\ArgsShareConsole.genruntimeconfig.cache
